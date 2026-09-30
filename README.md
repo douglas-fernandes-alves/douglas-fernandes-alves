@@ -5,6 +5,9 @@ My name is Douglas Fernandes, and I have a degree in journalism. I have worked i
 Currently studying:
 
 *Full-Stack Development (DevClub)
+<br>
 *Postgraduate degree in Digital Technology Development
+<br>
 *Postgraduate degree in Information Technology and Data Science
+<br>
 *MBA in Technology for Business: Artificial Intelligence, Data Science, and Big Data
